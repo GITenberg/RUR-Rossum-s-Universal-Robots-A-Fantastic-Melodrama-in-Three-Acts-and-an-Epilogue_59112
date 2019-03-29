@@ -1,0 +1,37 @@
+_repo: RUR-Rossum-s-Universal-Robots-A-Fantastic-Melodrama-in-Three-Acts-and-an-Epilogue_59112
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Playfair, Nigel
+    gutenberg_agent_id: '50306'
+    url: http://www.gutenberg.org/2009/agents/50306
+  translator:
+    agent_name: Selver, Paul
+    gutenberg_agent_id: '50307'
+    url: http://www.gutenberg.org/2009/agents/50307
+creator:
+  author:
+    agent_name: Čapek, Karel
+    aliases:
+    - Capek, Karel
+    - Chapek, Karel
+    birthdate: 1890
+    deathdate: 1938
+    gutenberg_agent_id: '4823'
+    url: http://www.gutenberg.org/2009/agents/4823
+    wikipedia: http://en.wikipedia.org/wiki/Karel_Capek
+description: ''
+gutenberg_issued: '2019-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'R.U.R. (Rossum''s Universal Robots)
+
+  A Fantastic Melodrama in Three Acts and an Epilogue'
+url: http://www.gutenberg.org/ebooks/59112
